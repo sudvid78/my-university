@@ -13,3 +13,6 @@ https://tpm-interview-guide-for-you.medium.com/do-these-two-things-to-get-into-f
 
 Async JDBC
 https://medium.com/@suchakjani/a-case-for-non-blocking-jdbc-part-two-a8d803f6ed69
+
+distributed system
+https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
